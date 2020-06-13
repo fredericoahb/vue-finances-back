@@ -1,0 +1,23 @@
+{
+  "name": "vue-finances-back",
+  "version": "1.0.0",
+  "description": "Monorepo para API GraphQL e Aplicação Vue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredericoahb/vue-finances-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredericoahb/vue-finances-back/issues"
+  },
+  "homepage": "https://github.com/fredericoahb/vue-finances-back#readme",
+  "dependencies": {
+    "prisma-client-lib": "^1.34.10"
+  }
+}
